@@ -1,10 +1,11 @@
-.loader {
+.loader2 {
 	font-family: 'ZCOOL KuaiLe', cursive;
 	font-size: 40px;
 	color: palevioletred;
+	margin:	100px 0 50px; 0;
 }
 
-.loader::after {
+.loader2::after {
 	content: '\2026';
 	display: inline-block;
 	overflow: hidden;
